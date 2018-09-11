@@ -60,3 +60,12 @@
         padding: 1.25rem;
         
     }
+
+    .small-card{
+      -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+     
+      border: 0;
+      border-radius: 4px;
+      font-weight: 400;
+      margin-top: 10px;
+    }
